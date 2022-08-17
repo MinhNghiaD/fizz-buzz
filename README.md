@@ -19,7 +19,7 @@ The Fizz buzz server source code was written in Golang. In order to build the ap
 ```bash
 # get the source & build:
 $ git clone https://github.com/MinhNghiaD/fizz-buzz.git
-$ cd fizzbuzz
+$ cd fizz-buzz
 $ make build
 ```
 
